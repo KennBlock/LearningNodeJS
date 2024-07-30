@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = `test-file2.txt`;
-const totalLines = 10000;
-const chunkSize = 1000000;
+const totalLines = 1000;
+const chunkSize = 1000;
 const line = 'Koss OM el Sessy\n';
 
 function writeLinesToFile() {
