@@ -1,0 +1,9 @@
+node_modules/
+final/
+.prettierrc
+.vscode/
+theory-lectures.pdf
+README.md
+vscode-setup.md
+.gitigonre
+4-natours/
